@@ -44,7 +44,7 @@ con resistencias adicionales.
 
 ![Bootstrap Version](https://img.shields.io/badge/-mycropython-05a700?style=for-the-badge&labelColor=101010&logo=Python&logoColor=white)
 ![Bootstrap Version](https://img.shields.io/badge/-Raspberry-d70037?style=for-the-badge&labelColor=101010&logo=Raspberry-Pi&logoColor=white)
-![GitHub Repo stars](https://img.shields.io/github/stars/ycanas/ttbinary?color=004ef6&style=for-the-badge&labelColor=101010)
+![GitHub Repo stars](https://img.shields.io/github/stars/ycanas/symon-says?color=004ef6&style=for-the-badge&labelColor=101010)
 [![GitHub](https://img.shields.io/badge/GitHub-ycanas-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=ccd300)](https://github.com/ycanas)
 ![GitHub Top Languages](https://img.shields.io/github/languages/count/ycanas/symon-says?style=for-the-badge&labelColor=101010&color=e50000)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/ycanas/symon-says?color=b4008e&style=for-the-badge&labelColor=101010)
