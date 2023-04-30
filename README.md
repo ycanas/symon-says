@@ -32,10 +32,11 @@ Este proyecto utiliza una Raspberry Pi Pico junto con cuatro LED de colores dife
 | GP18 | Led color azul |
 
 ```
-En la Raspberry, todos los pulsadores están configurados internamente como PULL UP, lo que significa que no es necesario 
-hacer una configuración resistiva adicional.
+En la Raspberry, todos los pulsadores están configurados internamente como PULL UP, lo que 
+significa que no es necesario hacer una configuración resistiva adicional.
 
-Dado que la salida de voltaje de la Raspberry es de 3V, no es necesario proteger los LED con resistencias adicionales.
+Dado que la salida de voltaje de la Raspberry es de 3V, no es necesario proteger los LED 
+con resistencias adicionales.
 ```
 ## Diagrama
 
